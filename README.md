@@ -1,1 +1,2 @@
 # Certificates
+This repository showcases my collection of professional certifications and course completions that demonstrate my commitment to continuous learning and skill development. It includes certificates from platforms like NPTEL, Microsoft, IBM, Newton School, Accenture via Forage, and more. Each certification reflects my proficiency in topics such as computer networks, generative AI, SQL, data analytics, and sustainability, highlighting my dedication to staying updated with industry-relevant technologies and best practices.
